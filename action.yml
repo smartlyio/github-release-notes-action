@@ -1,0 +1,6 @@
+name: "GitHub Release Notes"
+description: "GitHub release notes and changelog generator using Gren"
+author: "Smartly.io"
+runs:
+  using: "docker"
+  image: "Dockerfile"
